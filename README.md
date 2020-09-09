@@ -47,7 +47,7 @@ Supporting Pairs
 * TOAST-MOUTAI
 * SHRIMP-MOUTAI
 
-You name a pair and we will list it.
+✅ You name a pair and we will list it.
 
 
 * Coingecko: APPLIED! ✅ 
@@ -71,8 +71,4 @@ Website: https://www.moutaiswap.me
 
 Uniswap: 
 
-
-
-
-Sushiswap
-KimchiSwap
+## Enjoy the Party
