@@ -75,4 +75,4 @@ Website: https://www.moutaiswap.me
 
 Uniswap: 
 
-## Enjoy the Party
+## Enjoy the Party and get drunk
