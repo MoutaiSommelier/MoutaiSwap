@@ -10,7 +10,9 @@ Introducing MOUTAISwap as we all are getting drunk in this Defi Carnival!
 A Party without MOUTAI is no party at all
 Take your Sushi、Kimchi、Pizza、Springroll and whatever you farmed but have no way to sell, come and drink MOUTAI with them.
 
+
 https://www.moutaiswap.me(For Vitalik)
+
 
 Tokenomics:
 23,000,000 total supply for ETHEREUM
@@ -18,12 +20,28 @@ Tokenomics:
 【NO】DEV-FUND (As Chef took them for his own good)
 Everything is for Farmers（our Dev Team is FARMING as well）
 
-Supporting both ETH and TRX Farming at the same time
+
+Supporting both ETH Farming  will support TRX soon.
+Supporting Pairs
+USDT-USDC (Free Money）
+SUSHI-MOUTAI
+KIMCHI-MOUTAI
+gKIMCHI-MOUTAI
+SPRINGROLL-MOUTAI
+BACON-MOUTAI
+SHROOM-MOUTAI
+HARVEST-MOUTAI
+TOAST-MOUTAI
+SHRIMP-MOUTAI
+
+You name a pair and we will list it.
+
 
 Coingecko: APPLIED! ✅ 
 CoinMarketCap: APPLIED! ✅
 HOTBIT: APPLIED! ✅
 HOO.com: APPLIED! ✅
+
 
 Medium: https://medium.com/@moutaiswap
 Twitter: https://twitter.com/MoutaiSommelier
@@ -31,6 +49,7 @@ Telegram Group:t.me/MOUTAISWAP
 Discord:https://discord.gg/FKEH2P
 Website: https://www.moutaiswap.me
 Uniswap: 
+
 
 YOU CAN PM THE FOLLOWING ADMINS IF YOU HAVE ANY ISSUES
 
