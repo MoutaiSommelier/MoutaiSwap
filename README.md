@@ -66,9 +66,10 @@ Medium: https://medium.com/@moutaiswap
 
 Twitter: https://twitter.com/MoutaiSommelier
 
-Telegram Group:t.me/MOUTAISWAP
+Telegram Group:t.me/MOUTAIBARCOUNTER
 
-Discord:https://discord.gg/FKEH2P
+Discord: https://discord.gg/rHP5vE
+
 
 Website: https://www.moutaiswap.me
 
